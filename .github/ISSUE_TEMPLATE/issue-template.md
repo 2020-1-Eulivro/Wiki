@@ -1,14 +1,5 @@
 ---
 name: Issue template
-about: Describe this issue template's purpose here.
-title: ''
-labels: ''
-assignees: ''
-
----
-
----
-name: Issue template
 about: Template a ser seguido para criação de issues no projeto
 title: ''
 labels: ''
@@ -17,7 +8,7 @@ assignees: ''
 ---
 
 ## Nome da Issue
-A issue a ser criada deve possuir um nome simples e descritivo:
+A issue deve ser criada com um nome simples e descritivo:
 - Descrição simples da tarefa a se realizar.
 
 ## Descrição da Issue
@@ -45,9 +36,6 @@ A issue deve ser marcada com uma ou mais tags adequadas, para fins de rastreamen
 
 ## Milestone
 A issue deve ser atribuída ao Milestone (sprint) correspondente previsto para sua execução.
-
-## Estimate
-Deve se adicionar à issue a sua estimativa de dificuldade (pontuação).
 
 ## ZenHub
 A issue deve ser adicionada à pipeline correspondente no ZenHub, para o acompanhamento de seu progresso.
