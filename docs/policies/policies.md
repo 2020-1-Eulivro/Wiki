@@ -7,7 +7,7 @@
 
 Caso você queira contribuir conosco, siga as nossas políticas do repositório:
 
-* [Branches](/docs/policies/branches.md)
-* [Commits](/docs/policies/commits.md)
-- [Issues](/docs/policies/issues.md)
-- [Pull Request](/docs/policies/pull_requests.md)
+* [Branches](/policies/branches.md)
+* [Commits](/policies/commits.md)
+- [Issues](/policies/issues.md)
+- [Pull Request](/policies/pull_requests.md)
