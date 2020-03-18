@@ -15,13 +15,13 @@ Foi definido em reunião que usariamos artefatos e papéis da metodologia ágil 
 Outra metodologia adotada pelo grupo foi a XP(Extreme Programming), técnicas como pair programming etc.<br>
 O grupo decidiu que a organização de tarefas será feita a partir de issues, onde a issue indicará a atividade a ser realizada.<br>
 Além disso será utilizado o ZenHub para organização utilizando a metodologia de Kanban.<br>
+Também foi definido que para um pull request seja aceito é necessário que, no mínimo, 3 de pessoas façam a revisão deste.<br><br>
 Inicialmente os integrantes do grupo foram separados em papéis do Scrum:
 - Arquitetos: Gabriel Davi, Gabriel Alves e Guilherme Mendes;
 - DevOps: Caio Fernandes, Eduardo Lima e Pedro Igor;
 - Product Owner: Sofia Patrocínio e João Pedro;
 - Scrum Master: Iuri Severo, Lucas Fellipe e Micaella Gouveia.
 
-Também foi definido que para um pull request seja aceito é necessário que, no mínimo, 3 de pessoas façam a revisão deste.
 
 ## 2. Requisitos
 
