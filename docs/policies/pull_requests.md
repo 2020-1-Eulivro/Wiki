@@ -28,7 +28,7 @@ Neste pull request se realizou:
 * Correção de bug ao...
 ```
 
-* Deve conter um ```Reviewer```, em que indica-se pelo menos um membro da equipe de Requisitos de Software a ser responsável por analisar as modificações submetidas.
+* Deve conter um ```Reviewer```, em que indica-se pelo menos um membro da equipe de Arquitetura e Desenho de Software a ser responsável por analisar as modificações submetidas.
 
 * Deve conter um ou mais ```Assignees```, em que indica os membros da equipe que contribuíram com as modificações realizadas.
 
