@@ -4,10 +4,15 @@
 | 18/03/2020 |  0.2   | Adição do relato da Ideia, justificativa do uso da técnica e referências |  Micaella Gouveia |
 | 18/03/2020 |  0.3   | Adição do mapa mental da Ideia. |  Micaella Gouveia |
 | 18/03/2020 |  0.4   | Adição do mapa mental dos Contras. |  Pedro Igor |
+| 18/03/2020 |  0.5   | Adição da definição de Brainstorming e o relato sobre o Escopo |  Gabriel Alves |
+
 
 # Brainstorming
 
 ## Introdução
+
+### Definição
+"Brainstorming é uma técnica utilizada para propor soluções a um problema específico. Consiste em uma reunião também chamada de tempestade de ideias, na qual os participantes devem ter liberdade de expor suas sugestões e debater sobre as contribuições dos colegas." [PATEL, Neil](https://neilpatel.com/br/blog/o-que-e-brainstorming/)
 
 ### Justificativa para uso da Técnica
 Optamos em utilizar a técnica de brainstorming pois ela geralmente é utilizada no início de projetos, pois os participantes ganham a oportunidade de exporem suas ideias, sem restrição, além de conseguirem complementar a ideia proposta por outro membro. Além dos participantes ganharem mais empatia com o projeto, pois as suas ideias estão sendo cogitadas.
@@ -54,12 +59,31 @@ Foi realizada uma discussão em grupo para levantar as ideias de como o aplicati
 #### Compra do Livro
 - Lucas: Podemos colocar sites que vendem o livro procurado.
 
+
 #### Mapa Mental da Ideia:
 
 ![Mapa mental Ideia](/img/mapa_mental_ideia.png)
 
 ### Escopo
+Foi realizada uma descussão em grupo sobre o escopo do projeto, delimitando seus limites.
 
+#### Base de Dados para os Livros
+
+- Caio: Fica inviável popularmos a base de livros na mão.
+- Pedro: Podemos limitar o número de livros á 80, por exemplo e testar.
+- Caio: Provavelmente deve exister algum dataset disponível com esses livros. Vamos tentar pesquisar no Kaggle.
+- Lucas: Achei a API do Google que fornece os dados dos livros.
+
+#### Parte Individual do Usuário
+ - Pedro: Qual a primeira funcionalidade que a aplicação deveria ter?
+ - Micaella: A parte indivídual do usuário.
+ - Iuri: O programa deve listar o que você já leu, o que gostaria de ler, lista de recomendações e a TOP 10 LISTA do usuário.
+
+ #### Conexão Entre Usuários
+ - Iuri: Depois da parte individual vem a conexão das pessoas. Recomendar amigos em comum, relacionado pelos livros de interesse.
+ - Sofia: É parecido com a recomendação de compra de livros online, onde sugere livros que as pessoas também compraram.
+ - João Pedro: Podemos fazer à avalições dos livros, por estrela.
+ - Iuri: Avaliar livro tem que estar junto com a conexação das pessoas.
 
 
 
@@ -95,3 +119,4 @@ Foi realizada uma discussão em grupo sobre os pontos contras da escolha desse t
 
 ## Referências
 [Vantagens de um Brainstorming](https://www.oxigenweb.com.br/artigos/8-vantagens-de-um-brainstorming/)
+
