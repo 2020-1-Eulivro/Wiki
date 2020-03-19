@@ -1,6 +1,6 @@
 |    Data    | Versão |                 Descrição                 |     Autor     |
 | :--------: | :----: | :---------------------------------------: | :-----------: |
-| 17/03/2020 |  0.1   | Criação do documento e adição do relato do Contra. | Pedro Igor  |
+| 17/03/2020 |  0.1   | Criação do documento e adição do relato dos Contras. | Pedro Igor  |
 | 18/03/2020 |  0.2   | Adição do relato da Ideia, justificativa do uso da técnica e referências |  Micaella Gouveia |
 # Brainstorming
 
@@ -78,9 +78,18 @@ Foi realizada uma discussão em grupo sobre os pontos contras da escolha desse t
 - Sofia: O quão difícil é fazer um algoritmo de interesse baseado em informações do usuário?
 - Iuri: Muito provavelmente utilizaremos algoritmos com grafos.
 - Pedro Igor: Precisaremos desenvolver alguns algoritmos um pouco mais complexos, temos que tomar cuidado com o tempo para não fugir o prazo.
+
 #### Implementação de algumas features
 - Eduardo: Acredito que tenhamos pouco tempo para implementarmos a função de grupos de conversas.
 
+## Mapas mentais
+
+### Ideia
+
+### Escopo
+
+### Contras
+![Mapa Mental Contras](img/mapa_mental_contras.png)
 
 ## Referências
 [Vantagens de um Brainstorming](https://www.oxigenweb.com.br/artigos/8-vantagens-de-um-brainstorming/)
