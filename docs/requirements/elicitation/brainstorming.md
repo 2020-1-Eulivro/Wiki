@@ -2,6 +2,9 @@
 | :--------: | :----: | :---------------------------------------: | :-----------: |
 | 17/03/2020 |  0.1   | Criação do documento e adição do relato dos Contras. | Pedro Igor  |
 | 18/03/2020 |  0.2   | Adição do relato da Ideia, justificativa do uso da técnica e referências |  Micaella Gouveia |
+| 18/03/2020 |  0.3   | Adição do mapa mental da Ideia. |  Micaella Gouveia |
+| 18/03/2020 |  0.4   | Adição do mapa mental dos Contras. |  Pedro Igor |
+
 # Brainstorming
 
 ## Introdução
@@ -53,7 +56,7 @@ Foi realizada uma discussão em grupo para levantar as ideias de como o aplicati
 
 #### Mapa Mental da Ideia:
 
-<img src="./docs/assets/MapaMentalIdeia.png"/>
+![Mapa mental Ideia](/img/mapa_mental_ideia.png)
 
 ### Escopo
 
@@ -86,14 +89,9 @@ Foi realizada uma discussão em grupo sobre os pontos contras da escolha desse t
 #### Implementação de algumas features
 - Eduardo: Acredito que tenhamos pouco tempo para implementarmos a função de grupos de conversas.
 
-## Mapas mentais
-
-### Ideia
-
-### Escopo
-
-### Contras
+### Mapa Mental Contras
 ![Mapa Mental Contras](img/mapa_mental_contras.png)
+
 
 ## Referências
 [Vantagens de um Brainstorming](https://www.oxigenweb.com.br/artigos/8-vantagens-de-um-brainstorming/)
