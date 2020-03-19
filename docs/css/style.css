@@ -17,16 +17,16 @@
 }
 
 .titleMessage .heading p {
-  color: #fa7f72;
+  color: #fff;
   text-shadow: 0px 2px 5px rgba(0, 0, 0, 0.4);
   font-weight: 100;
-  letter-spacing: 7px;
+  letter-spacing: 5px;
 }
 
 .titleMessage .heading .main {
-  font-size: 50px;
+  font-size: 60px;
 }
 
 .titleMessage .heading .sub {
-  font-size: 18px;
+  font-size: 20px;
 }
