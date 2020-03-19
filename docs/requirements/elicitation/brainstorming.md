@@ -62,7 +62,7 @@ Foi realizada uma discussão em grupo para levantar as ideias de como o aplicati
 
 ### Mapa Mental da Ideia:
 
-![Mapa mental Ideia](/img/mapa_mental_ideia.png)
+![Mapa mental Ideia](img/mapa_mental_ideia.png)
 
 ### Escopo
 Foi realizada uma descussão em grupo sobre o escopo do projeto, delimitando seus limites.
@@ -86,7 +86,7 @@ Foi realizada uma descussão em grupo sobre o escopo do projeto, delimitando seu
  - Iuri: Avaliar livro tem que estar junto com a conexação das pessoas.
 
 #### Mapa Mental do Escopo:
-![Mapa Mental Escopo](/img/mapa_mental_escopo.jpg)
+![Mapa Mental Escopo](img/mapa_mental_escopo.jpg)
 
 ### Contras
 Foi realizada uma discussão em grupo sobre os pontos contras da escolha desse tema para o projeto.
