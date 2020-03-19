@@ -5,6 +5,7 @@
 | 18/03/2020 |  0.3   | Adição do mapa mental da Ideia. |  Micaella Gouveia |
 | 18/03/2020 |  0.4   | Adição do mapa mental dos Contras. |  Pedro Igor |
 | 18/03/2020 |  0.5   | Adição da definição de Brainstorming e o relato sobre o Escopo |  Gabriel Alves |
+| 19/03/2020 |  0.6   | Adição do mapa mental do Escopo |  Gabriel Alves |
 
 
 # Brainstorming
@@ -84,7 +85,8 @@ Foi realizada uma descussão em grupo sobre o escopo do projeto, delimitando seu
  - João Pedro: Podemos fazer à avalições dos livros, por estrela.
  - Iuri: Avaliar livro tem que estar junto com a conexação das pessoas.
 
-
+#### Mapa Mental do Escopo:
+![Mapa Mental Escopo](/img/mapa_mental_escopo.jpg)
 
 ### Contras
 Foi realizada uma discussão em grupo sobre os pontos contras da escolha desse tema para o projeto.
