@@ -1,3 +1,4 @@
 * [Home](/)
-* [Políticas do Projeto](/policies/policies.md)
-* [Pré Rastreabilidade](pre_traceability.md)
+* [Pré Rastreabilidade](/pre_traceability.md)
+* [Requisitos](/requirements.md)
+* [Políticas do Projeto](/policies.md)
