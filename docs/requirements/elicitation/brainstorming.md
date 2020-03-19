@@ -51,6 +51,10 @@ Foi realizada uma discussão em grupo para levantar as ideias de como o aplicati
 #### Compra do Livro
 - Lucas: Podemos colocar sites que vendem o livro procurado.
 
+#### Mapa Mental da Ideia:
+
+<img src="./docs/assets/MapaMentalIdeia.png"/>
+
 ### Escopo
 
 
