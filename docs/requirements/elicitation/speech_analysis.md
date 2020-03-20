@@ -1,6 +1,8 @@
 |    Data    | Versão |                 Descrição                 |     Autor     |
 | :--------: | :----: | :---------------------------------------: | :-----------: |
-| 20/03/2020 |  0.1   | Criação do documento e adição da análise | Pedro Igor, Micaella Gouveia e Gabriel Alves  |
+| 20/03/2020 |  0.1   | Criação do documento e adição da análise. | Pedro Igor, Micaella Gouveia e Gabriel Alves  |
+| 20/03/2020 |  0.2   | Adição dos requisitos levantados .| Pedro Igor, Micaella Gouveia e Gabriel Alves  |
+
 
 
 # Análise de Discurso
@@ -12,23 +14,23 @@
 <!-- (por conta do número baixo de pessoas) (gabriel) --> 
 ## Tema: Definição do Escopo
 ### Subtemas:
-1) População da base de dados(API, dataset).<br>
-2) Funcionalidades individuais para os usuários.<br> 
-3) Funcionalidades coletivas para os usuários.<br>
+1.  População da base de dados(API, dataset).
+2. Funcionalidades individuais para os usuários.
+3. Funcionalidades coletivas para os usuários.
 
 ### Organização:
-Fala (1m30s)<br>
-Uma réplica (1m30s)<br>
-Uma tréplica (1m)<br>
-Um complemento (40s)<br>
+1. Fala (1m30s)
+2. Uma réplica (1m30s)
+3. Uma tréplica (1m)
+4. Um complemento (40s)
 
 ### Rodada 1 - População da base de dados(API, dataset):
 
 ##### Mediadora: 
-Micaella<br>
+* Micaella
 ##### Participantes:
-Gabriel Alves<br>
-Pedro Igor<br>
+* Gabriel Alves
+* Pedro Igor
 
 #### Fala - Pedro Igor: 
 "Seria interessante limitarmos a população da base da dados de acordo com um api com uma quantidade limitada de livros, porque dessa forma ficaríamos limitados a uma quantidade de livros interessante. Nosso objetivo principal é trazer interação dos usuários e não criar um catálogo com todos os livros do mundo, o que seria impossível."
@@ -44,10 +46,10 @@ Pedro Igor<br>
 
 ### Rodada 2 - Funcionalidades individuais para os usuários:
 ##### Mediador: 
-Gabriel<br>
+* Gabriel
 ##### Participantes:
-Micaella<br>
-Pedro Igor<br>
+* Micaella
+* Pedro Igor
 
 #### Fala - Micaella:
 "Acho que seria essencial que houvesse  uma parte de organização individual que a pessoa poderia colocar os livros que já leu e que está lendo e tendo a parte de metas, onde seria legal que fosse automatizados, onde tivesse calendário onde ela pudesse colocar uma data de conclusão do livro e etc. le a criação do perfil dela, pois geraria recomendações de livros, e entraria na parte social do aplicativo, achando outros usuários com mesmo interesse."
@@ -64,10 +66,10 @@ Pedro Igor<br>
 ### Rodada 3 - Funcionalidades coletivas para os usuários.
 
 ##### Mediador:
-Pedro Igor<br>
+* Pedro Igor
 ##### Participantes:
-Micaella<br>
-Gabriel<br>
+* Micaella
+* Gabriel
 
 #### Fala - Gabriel:
 "Pra mim essa é a parte mais importante do nosso aplicativo levando em consideração que é um problema que outros apps possuem atualmente. Para responder a isso é necessário a criação  de grupo de discussão de livros, um chat, um feed onde postam o que estão lendo, pequenas resenhas e recomendações geradas pelo sistema através do gosto do usuário através de interações que ele faz. Focar o chat para o grupo e não para o individual, pois seria um escopo bastante abrangente."
@@ -80,3 +82,32 @@ Gabriel<br>
 
 #### Complemento - Pedro Igor:
 "Concordo, a interação em grupo faz com que uma leitura se torne muito mais agradável, incentiva as pessoas a lerem e a existência de um grupo de discussão motiva as pessoas a lerem até mesmo para evitarem spoilers."
+
+## Requisitos Levantados
+
+### Não Funcionais
+|Número|Requisito|
+| :--------: | :----: |
+|1|O sistema deve oferecer uma base de dados dos livros.
+
+### Funcionais
+|Número|Requisito|
+| :--------: | :----: |
+|2|O usuário deve poder pesquisar por um livro específico.
+|3|O usuário deve poder adicionar livros ao seu catálogo.
+|4|O usuário deve poder organizar seu catálogo por gêneros.
+|5|O usuário deve poder marcar os livros que está lendo no momento.
+|6|O usuário deve poder cadastrar suas metas individuais.
+|7|O sistema deverá alertar o usuário do cumprimento das suas metas individuais.
+|8|O usuário deve poder criar grupos de discussão.
+|9|O usuário deve poder entrar em grupos/clubes nos quais ele recebeu o convite.
+|10|O usuário deve poder criar clubes do livro.
+|11|O usuário deve poder convidar outros usuários para seus clubes/grupos.
+|12|O usuário deve poder criar chats individuais.
+|13|O usuário deve poder criar o seu perfil.
+|14|O usuário deve poder visualizar o perfil de outros usuários.
+|15|O usuário pode fornecer metas para clubes do livro.
+|16|O sistema deve fazer recomendações de livros conforme o perfil do usuário.
+
+## Referências
+[https://requisitos-tinder.github.io/Tinder-2018-1/elicitacao/analise_discurso/](https://requisitos-tinder.github.io/Tinder-2018-1/elicitacao/analise_discurso/) Disponível em 20/03.
