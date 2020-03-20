@@ -8,10 +8,16 @@
 # Análise de Discurso
 ## Introdução 
 <!--(quem achar vai ser otimo)-->
-## Justificativa
+## Justificativa para uso da Técnica
+Optamos em utilizar a técnica de Análise de Discurso para trazer um melhor entendimento do propósito do projeto. Vimos que nosso escopo abrangia várias funcionalidades, e precisávamos definir o que era prioridade. A técnica nos ajudou pois os participantes deviam expor seus pensamentos de forma sucinta e organizada, além de dar a oportunidade de questionar, contrariar ou complementar ideias.
 <!--Micaella-->
-## Explicar mudanças 
-<!-- (por conta do número baixo de pessoas) (gabriel) --> 
+
+## Participantes
+* Gabriel Alves
+* Micaella Gouveia
+* Pedro Igor
+## Como foi feito 
+<!-- explicar como foi feito e pq mudamos de mediador(por conta do número baixo de pessoas) (gabriel) --> 
 ## Tema: Definição do Escopo
 ### Subtemas:
 1.  População da base de dados(API, dataset).
