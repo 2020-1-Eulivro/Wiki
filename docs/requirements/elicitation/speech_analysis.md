@@ -99,21 +99,21 @@ Optamos em utilizar a técnica de Análise de Discurso para trazer um melhor ent
 ### Funcionais
 |Número|Requisito|
 | :--------: | :----: |
-|2|O usuário deve poder pesquisar por um livro específico.
-|3|O usuário deve poder adicionar livros ao seu catálogo.
-|4|O usuário deve poder organizar seu catálogo por gêneros.
-|5|O usuário deve poder marcar os livros que está lendo no momento.
-|6|O usuário deve poder cadastrar suas metas individuais.
-|7|O sistema deverá alertar o usuário do cumprimento das suas metas individuais.
-|8|O usuário deve poder criar grupos de discussão.
-|9|O usuário deve poder entrar em grupos/clubes nos quais ele recebeu o convite.
-|10|O usuário deve poder criar clubes do livro.
-|11|O usuário deve poder convidar outros usuários para seus clubes/grupos.
-|12|O usuário deve poder criar chats individuais.
-|13|O usuário deve poder criar o seu perfil.
-|14|O usuário deve poder visualizar o perfil de outros usuários.
-|15|O usuário pode fornecer metas para clubes do livro.
-|16|O sistema deve fazer recomendações de livros conforme o perfil do usuário.
+|1|O usuário deve poder pesquisar por um livro específico.
+|2|O usuário deve poder adicionar livros ao seu catálogo.
+|3|O usuário deve poder organizar seu catálogo por gêneros.
+|4|O usuário deve poder marcar os livros que está lendo no momento.
+|5|O usuário deve poder cadastrar suas metas individuais.
+|6|O sistema deverá alertar o usuário do cumprimento das suas metas individuais.
+|7|O usuário deve poder criar grupos de discussão.
+|8|O usuário deve poder entrar em grupos/clubes nos quais ele recebeu o convite.
+|9|O usuário deve poder criar clubes do livro.
+|10|O usuário deve poder convidar outros usuários para seus clubes/grupos.
+|11|O usuário deve poder criar chats individuais.
+|12|O usuário deve poder criar o seu perfil.
+|13|O usuário deve poder visualizar o perfil de outros usuários.
+|14|O usuário pode fornecer metas para clubes do livro.
+|15|O sistema deve fazer recomendações de livros conforme o perfil do usuário.
 
 ## Referências
 [https://requisitos-tinder.github.io/Tinder-2018-1/elicitacao/analise_discurso/](https://requisitos-tinder.github.io/Tinder-2018-1/elicitacao/analise_discurso/) Disponível em 20/03.
