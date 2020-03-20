@@ -2,6 +2,7 @@
 | :--------: | :----: | :---------------------: | :----------------------------: |
 | 18/03/2020 |  0.1   | Criação dos StoryBoards | Guilherme Mendes, Gabriel Davi |
 | 19/03/2020 |  0.2   | Formatação do documento |          Gabriel Davi          |
+| 20/03/2020 |  0.3   | Adição da justificativa |        Guilherme Mendes        |
 
 
 # StoryBoards
