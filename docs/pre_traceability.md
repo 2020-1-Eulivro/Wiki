@@ -1,1 +1,0 @@
-* [5W2H](pre_traceability/5W2H.md)
