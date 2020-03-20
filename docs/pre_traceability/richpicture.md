@@ -4,6 +4,7 @@
 | 19/03/2020 |  0.2   |                  Adição do richPicture 2.                   | Guilherme Mendes |
 | 19/03/2020 |  0.3   |                  Adição do richPicture 3.                   |   Gabriel Davi   |
 | 20/03/2020 |  0.4   |                  Adição do richPicture 4.                   |   [Caio Fernandes](https://github.com/caiovfernandes)   |
+| 20/03/2020 |  0.5   |                  Adição do richPicture 5.                   |   [Lucas Fellipe](https://github.com/lucasfcm9)   |
 
 # Rich Picture
 
@@ -33,6 +34,12 @@ Autor: Gabriel Davi Silva Pereira<br>
 Autor: Caio Vinícius Fernandes<br>
 
 ![Rich Picture Caio](img/richPictureCaio.jpg)
+
+## Rich Picture 5
+
+Autor: Lucas Fellipe Carvalho Moreira<br>
+
+![Rich Picture Lucas](img/RichPictureLucas.png)
 
 ## Referências
 
