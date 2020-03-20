@@ -1,12 +1,17 @@
-# _StoryBoards_
-
 |    Data    | Versão |        Descrição        |             Autor              |
 | :--------: | :----: | :---------------------: | :----------------------------: |
 | 18/03/2020 |  0.1   | Criação dos StoryBoards | Guilherme Mendes, Gabriel Davi |
 | 19/03/2020 |  0.2   | Formatação do documento |          Gabriel Davi          |
 
-<p align="justify"> &emsp;&emsp; <i>Storyboard</i> ou Esboço sequencial são organizadores gráficos tais como uma série de ilustrações ou imagens arranjadas em sequência com o propósito de pré-visualizar um filme, animação ou gráfico animado, incluindo elementos interativos em websites. Sendo um roteiro desenhado, seu layout gráfico se assemelha a uma história em quadrinho.
+
+# StoryBoards
+
+## Definição
+<p align="justify"> &emsp;&emsp; Storyboard ou Esboço sequencial são organizadores gráficos tais como uma série de ilustrações ou imagens arranjadas em sequência com o propósito de pré-visualizar um filme, animação ou gráfico animado, incluindo elementos interativos em websites. Sendo um roteiro desenhado, seu layout gráfico se assemelha a uma história em quadrinho.
 Na área de engenharia de software é utilizado para melhoria na documentação dos requisitos no processo de desenvolvimento de software.</p>
+
+## Justificativa para uso da Técnica
+<p align="justify"> &emsp;&emsp; O uso do Storyboard no processo de Design de Software fortalece elementos da experiência do usuário no projeto, oferecendo diversos benefícios, tais como: reunir e compartilhar informações sobre usuários, tarefas e objetivos, além de compartilhar idéias criando um senso de história e propósito compartilhados para um maior entendimento da proposta da aplicação.
 
 ## StoryBoard 1 - Compartilhamento de livros v1.0
 
@@ -37,6 +42,7 @@ Autor: Gabriel Davi <br>
 
 ### Referências
 
-StoryBoard That, plataforma de criação de storyBoards online
+* StoryBoard That, plataforma de criação de storyBoards online
 Disponível em: [https://www.storyboardthat.com/pt](https://www.storyboardthat.com/pt).<br>
 Acesso em: 16 de março de 2020.
+* Storytelling for User Experience: Crafting Stories for Better Design 1st edition by Whitney Quesenbery, Kevin Brooks (2010) Paperback
