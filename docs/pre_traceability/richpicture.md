@@ -5,6 +5,7 @@
 | 19/03/2020 |  0.3   |                  Adição do richPicture 3.                   |   Gabriel Davi   |
 | 20/03/2020 |  0.4   |                  Adição do richPicture 4.                   |   [Caio Fernandes](https://github.com/caiovfernandes)   |
 | 20/03/2020 |  0.5   |                  Adição do richPicture 5.                   |   [Lucas Fellipe](https://github.com/lucasfcm9)   |
+| 20/03/2020 |  0.6   |                  Adição do richPicture 6.                   |   Eduardo Lima   |
 
 # Rich Picture
 
@@ -40,6 +41,12 @@ Autor: Caio Vinícius Fernandes<br>
 Autor: Lucas Fellipe Carvalho Moreira<br>
 
 ![Rich Picture Lucas](img/RichPictureLucas.png)
+
+## Rich Picture 6
+
+Autor: Eduardo Vieira Lima<br>
+
+![Rich Picture Eduardo](img/richPictureEduardo.png)
 
 ## Referências
 
