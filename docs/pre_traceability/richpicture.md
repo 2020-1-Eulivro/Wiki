@@ -3,6 +3,7 @@
 | 19/03/2020 |  0.1   | Criação do documento, adição da introdução e richPicture 1. | Micaella Gouveia |
 | 19/03/2020 |  0.2   |                  Adição do richPicture 2.                   | Guilherme Mendes |
 | 19/03/2020 |  0.3   |                  Adição do richPicture 3.                   |   Gabriel Davi   |
+| 20/03/2020 |  0.4   |                  Adição do richPicture 4.                   |   [Caio Fernandes](https://github.com/caiovfernandes)   |
 
 # Rich Picture
 
@@ -26,6 +27,12 @@ Autor: Guilherme Mendes<br>
 Autor: Gabriel Davi Silva Pereira<br>
 
 ![Rich Picture Micaella](img/richpictureDavi.png)
+
+## Rich Picture 4
+
+Autor: Caio Vinícius Fernandes<br>
+
+![Rich Picture Caio](img/richPictureCaio.jpg)
 
 ## Referências
 
