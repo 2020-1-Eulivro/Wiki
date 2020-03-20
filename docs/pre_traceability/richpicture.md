@@ -12,6 +12,11 @@ Autora: Micaella Gouveia<br>
 
 ![Rich Picture Micaella](img/richpictureMicaella.png)
 
+## Rich Picture 2
+Autor: Guilherme Mendes<br>
+
+![Rich Picture Micaella](img/richpictureGuilherme.png)
+
 
 ## Referências
 [https://www.betterevaluation.org/en/evaluation-options/richpictures](https://www.betterevaluation.org/en/evaluation-options/richpictures) Disponível em 19/03.
