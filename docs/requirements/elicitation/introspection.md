@@ -7,7 +7,7 @@
 ## Introdução
 
 ### Definição
-Na técnica de introspecção o Engenheiro de Requisitos “imagina” que tipo de sistema é necessário para realizar o trabalho exigido ou usando o equipamento disponível. A introspecção é um método contribui para o entendimento de quais propriedades um sistema deve apresentar para ter sucesso.
+Na técnica de introspecção o Engenheiro de Requisitos “imagina” que tipo de sistema é necessário para realizar o trabalho exigido ou usando o equipamento disponível. A introspecção é um método que contribui para o entendimento de quais propriedades um sistema deve apresentar para ter sucesso.
 
 ### Justificativa para uso da Técnica
 Optamos por usar a técnica de introspecção pois ela permite que você imagine como o sistema deve ser para obter sucesso. Devido a isso, a técnica possui muita eficiência na elicitação de requisitos.
@@ -19,7 +19,7 @@ Optamos por usar a técnica de introspecção pois ela permite que você imagine
 * Deve ser possível realizar o login por e-mail e senha cadastrados ou login integrado com o google. Além de uma opção "esqueceu a senha" caso o usuário tenha esquecido a senha.
 
 ### Ao selecionar a opção de cadastro:
-* Deve apresentar três campo para cadastrar seu "nome", "data de nascimento", "e-mail" e "senha", em que estes são obrigatórios e "número de telefone" , que é opcional.
+* Deve apresentar três campos para cadastrar seu "nome", "data de nascimento", "e-mail" e "senha", em que estes são obrigatórios e "número de telefone" , que é opcional.
 * Deve apresentar uma caixa de seleção para que o usuário visualize, aceite ou recuse os termos de uso do aplicativo.
 * Deve apresentar um campo para digitar o código de verificação recebida por e-mail ou número de telefone, a depender da escolha do usuário.
 
@@ -36,7 +36,7 @@ Optamos por usar a técnica de introspecção pois ela permite que você imagine
   * Amigos, Clube do Livro e Chat;
   * Configurações do usuário;
 
-### Ao acessar a aba "feed":
+### Ao acessar a aba "Feed":
 * Deve possuir um conjunto de publicações dos amigos do usuário havendo interações entre eles.
 * Deve possuir indicações de livros.
 * Deve possuir uma caixa de texto para que o usuário possa escrever para fazer as suas publicações.
