@@ -1,11 +1,12 @@
 |    Data    | Versão |                          Descrição                          |     Autores      |
 | :--------: | :----: | :---------------------------------------------------------: | :--------------: |
-| 19/03/2020 |  0.1   | Criação do documento, adição da introdução e richPicture 1. | Micaella Gouveia |
-| 19/03/2020 |  0.2   |                  Adição do richPicture 2.                   | Guilherme Mendes |
-| 19/03/2020 |  0.3   |                  Adição do richPicture 3.                   |   Gabriel Davi   |
+| 19/03/2020 |  0.1   | Criação do documento, adição da introdução e richPicture 1. | [Micaella Gouveia](https://github.com/micaellagouveia) |
+| 19/03/2020 |  0.2   |                  Adição do richPicture 2.                   | [Guilherme Mendes](https://github.com/guilherme-mendes) |
+| 19/03/2020 |  0.3   |                  Adição do richPicture 3.                   |   [Gabriel Davi](https://github.com/GabrielDVpereira)   |
 | 20/03/2020 |  0.4   |                  Adição do richPicture 4.                   |   [Caio Fernandes](https://github.com/caiovfernandes)   |
 | 20/03/2020 |  0.5   |                  Adição do richPicture 5.                   |   [Lucas Fellipe](https://github.com/lucasfcm9)   |
-| 20/03/2020 |  0.6   |                  Adição do richPicture 6.                   |   Eduardo Lima   |
+| 20/03/2020 |  0.6   |                  Adição do richPicture 6.                   |   [Eduardo Lima](https://github.com/Ed-vL)  |
+| 21/03/2020 |  0.7   |                  Adição do richPicture 7.                   |   [Sofia Patrocinio](https://github.com/sofiapatrocinio)   |
 
 # Rich Picture
 
@@ -47,6 +48,12 @@ Autor: Lucas Fellipe Carvalho Moreira<br>
 Autor: Eduardo Vieira Lima<br>
 
 ![Rich Picture Eduardo](img/richPictureEduardo.png)
+
+## Rich Picture 7
+
+Autora: Sofia Patrocínio<br>
+
+![Rich Picture Sofia](img/richPictureSofia.png)
 
 ## Referências
 
